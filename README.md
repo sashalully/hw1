@@ -28,9 +28,10 @@ Seems like I've been fascinated by it since I was born
 
 Just check out these trailers yourself!
 
-[Ida, 2015](https://www.youtube.com/watch?v=ELIMeemx-FI)
-
-[Frances Ha, 2013](https://www.youtube.com/watch?v=YBn5dgXFMis)
+ | Title & link | Year | Directed by |
+ |---------|-----|-------|
+ | [Ida](https://www.youtube.com/watch?v=ELIMeemx-FI)   | 2015 | Pawel Pawlikovsky|
+ | [Frances Ha](https://www.youtube.com/watch?v=YBn5dgXFMis)   | 2013 | Noah Baumbach|
 
 ### Nuber 5 — Ballet
 
